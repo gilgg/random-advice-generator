@@ -18,6 +18,8 @@ We all have rough days sometimes. Why not have a little smile on your face with 
 
 # Technologies 👨‍💻
 
+![HTML Icon](https://i.ibb.co/9tyHGr7/html-logo.png, "HTML")
+![CSS Icon](https://i.ibb.co/b3QNSgX/css-logo.png, "CSS")
 ![React Icon](https://i.ibb.co/BBFKyz9/Group-9.png, "React")
 ![JavaScript Icon](https://i.ibb.co/L5RS8g1/Group-11.png, "JavaScript")
 
@@ -26,4 +28,3 @@ We all have rough days sometimes. Why not have a little smile on your face with 
 # Screenshots 🎮
 
 ![Random Advice Generator Header](https://i.ibb.co/Mk9GV0C/random-advice-generator.png)
-

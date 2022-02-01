@@ -27,4 +27,4 @@ We all have rough days sometimes. Why not have a little smile on your face with 
 
 # Screenshots 🎮
 
-![Random Advice Generator Header](https://i.ibb.co/Mk9GV0C/random-advice-generator.png)
+![Random Advice Generator Header](https://i.ibb.co/qYxDmnf/random-advice-generator.png)
